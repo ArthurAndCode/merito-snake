@@ -121,8 +121,7 @@ class Program
 
             }
 
-            Console.ForegroundColor =  /* ?? */;
-
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Score: " + score);
 
             Console.ForegroundColor = ConsoleColor.White;
@@ -211,7 +210,7 @@ class Program
 
             //Hindernis treffen
 
-            if (hoofd.xPos == obstacleXpos /* ?? */ == obstacleYpos)
+            if (hoofd.xPos == obstacleXpos && hoofd.yPos == obstacleYpos)
 
             {
 
@@ -269,7 +268,7 @@ class Program
 
                     Console.SetCursorPosition(screenwidth / 5, screenheight / 2);
 
-                   //???
+                    Console.WriteLine("Game Over - Ugryzles wlasny ogon!");
 
                     Console.SetCursorPosition(screenwidth / 5, screenheight / 2 + 1);
 
