@@ -1,0 +1,15 @@
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/merito-snake.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/merito-snake.AssemblyInfoInputs.cache
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/merito-snake.AssemblyInfo.cs
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/merito-snake.csproj.CoreCompileInputs.cache
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/merito-snake.sourcelink.json
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/bin/Debug/net8.0/merito-snake
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/bin/Debug/net8.0/merito-snake.deps.json
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/bin/Debug/net8.0/merito-snake.runtimeconfig.json
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/bin/Debug/net8.0/merito-snake.dll
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/bin/Debug/net8.0/merito-snake.pdb
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/merito-snake.dll
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/refint/merito-snake.dll
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/merito-snake.pdb
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/merito-snake.genruntimeconfig.cache
+/home/arthur/Downloads/Projekty_Artur_Bogdanik/merito-snake/obj/Debug/net8.0/ref/merito-snake.dll
